@@ -1,9 +1,13 @@
 # 阮建達 (Edan)
 
 Birthday： 1992/04/14
+
 Education： 逢甲大學-環境工程學系
+
 Location： Taichung
+
 E-Mail： dark1047878@gmail.com
+
 Personal Website： https://github.com/dark1047878/Edan
 
 ---
